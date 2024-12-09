@@ -17,7 +17,7 @@ The dataset includes the following attributes for each diamond:
 - **table**: Width of top of diamond relative to widest point (43-95)
 
 ## Project Structure
-- `Practice Project - Data Exploration.ipynb`: Main Jupyter notebook containing the analysis
+- `Diamond-EDA.ipynb`: Main Jupyter notebook containing the analysis
 - `README.md`: Project documentation
 - `.gitignore`: Git ignore file
 
