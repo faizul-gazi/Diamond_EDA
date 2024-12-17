@@ -45,6 +45,8 @@ The dataset includes the following attributes for each diamond:
   - numpy
   - matplotlib
   - seaborn
+ 
+  ![Screenshot_4](https://github.com/user-attachments/assets/25abec1c-6dbf-4161-87eb-d8ea9d6b0f99)
 
 ## Setup and Installation
 1. Clone the repository
