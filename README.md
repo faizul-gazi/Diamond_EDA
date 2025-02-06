@@ -49,4 +49,3 @@ The dataset includes the following attributes for each diamond:
 ## Setup and Installation
 1. Clone the repository
 2. Install required packages:
-3. ddddddd
